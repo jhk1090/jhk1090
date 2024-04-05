@@ -1,5 +1,12 @@
 <img src="https://github.com/jhk1090/jhk1090/assets/72603240/510d5e30-e11f-48d5-9433-95e55cdce424" alt="joke" style="width:55rem;"/>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jhk1090" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhk1090&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 <!--
 **jhk1090/jhk1090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
